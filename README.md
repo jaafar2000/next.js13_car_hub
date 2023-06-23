@@ -1,5 +1,5 @@
 # Car Hub
-Full-stack application built with Next.js allows users to Discover the convenience of finding, booking, and renting a car with our quick and super easy website!, Streamline your car rental experience with our website—find, book, and rent a car in no time, hassle-free!"
+Full-stack application built with Next.js allows users to Discover the convenience of finding, booking, and renting a car with our quick and super easy website!, Streamline your car rental experience with our website find, book, and rent a car in no time, hassle-free!"
 
 
 
